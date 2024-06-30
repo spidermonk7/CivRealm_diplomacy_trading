@@ -1,0 +1,19 @@
+python run.py --mode=train --model_type=MLP --pr=True --auto_encoder=True
+python run.py --mode=train --model_type=MLP --pr=False --auto_encoder=True
+python run.py --mode=train --model_type=MLP --pr=True --auto_encoder=False
+python run.py --mode=train --model_type=MLP --pr=False --auto_encoder=False
+python run.py --mode=train --model_type=CNN --pr=True --auto_encoder=True
+python run.py --mode=train --model_type=CNN --pr=False --auto_encoder=True
+python run.py --mode=train --model_type=CNN --pr=True --auto_encoder=False
+python run.py --mode=train --model_type=CNN --pr=False --auto_encoder=False
+
+
+
+python run.py --mode=valid --model_type=MLP --pr=True --auto_encoder=True
+python run.py --mode=valid --model_type=MLP --pr=False --auto_encoder=True
+python run.py --mode=valid --model_type=MLP --pr=True --auto_encoder=False
+python run.py --mode=valid --model_type=MLP --pr=False --auto_encoder=False
+python run.py --mode=valid --model_type=CNN --pr=True --auto_encoder=True
+python run.py --mode=valid --model_type=CNN --pr=False --auto_encoder=True
+python run.py --mode=valid --model_type=CNN --pr=True --auto_encoder=False
+python run.py --mode=valid --model_type=CNN --pr=False --auto_encoder=False
