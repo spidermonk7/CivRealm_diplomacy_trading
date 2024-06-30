@@ -1,5 +1,5 @@
 # CivRealm diplomacy trading
-![image](https://github.com/spidermonk7/CivRealm_diplomacy_trading/assets/98212025/7ba8c050-fb8a-440d-8552-959d92b6ffad)
+![image](https://github.com/spidermonk7/CivRealm_diplomacy_trading/assets/98212025/a9793e13-208d-4459-b1e4-069510185801)
 
 This function focus on solving the Techs Trading Tasks based on CivRealm Environment: [https://github.com/bigai-ai/civrealm]
 And in this file, the mian codes are used to train a **Double DQN model** to solve the task. However, till now it performs poorly. 
